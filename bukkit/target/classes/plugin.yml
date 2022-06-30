@@ -1,0 +1,57 @@
+name: BlockBytes
+main: net.bbytes.bukkit.Main
+version: 1.0
+author: Viktoracri
+depend: [LuckPerms, EssentialsSpawn]
+api-version: 1.17
+
+commands:
+  /upload:
+    description: Upload a schematic to the server.
+  prefix:
+    description: Manage prefixes for players.
+  rank:
+    description: Manage ranks for players.
+  language:
+    description: Select your language
+  reloadbb:
+    description: Reload Blockbytes
+  2fa:
+    description: Manage Two-Factor Authentication
+  work:
+    description: Work hard every day only get few money
+  whitelist:
+    description: Better Whitelist
+  worlds:
+    description: Worlds
+    aliases: [projects, proj, w, mvtp, mvlist, mv, goto]
+  settings:
+    description: Change World Settings for the current world.
+    aliases: [gamerule]
+  project:
+    description: Browse the project you are currently in
+  exportyml:
+    description: test
+  warp:
+    aliases: [ewarp]
+    description: Teleport to warps
+  warps:
+    description: Warp List
+  setwarp:
+    description: Set a warp
+  delwarp:
+    description: Delete a warp
+  member:
+    description: Define membership
+  world:
+    description: Download/Upload worlds
+  info:
+    description: Information about your current world
+  reconnect:
+    description: Reconnect to Blockbytes Transfer
+  maintenance:
+    description: Admin command
+  forcesave:
+
+
+

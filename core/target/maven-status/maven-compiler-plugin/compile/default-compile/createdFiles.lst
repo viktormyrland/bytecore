@@ -1,0 +1,4 @@
+net\bbytes\core\versioned\VersionedPlayer.class
+net\bbytes\core\VersionWrapper.class
+net\bbytes\core\versioned\VersionedItemStack.class
+net\bbytes\core\versioned\VersionedMaterial.class
